@@ -1,45 +1,46 @@
-# 👋 Welcome to The Last Commit!
+<img src="assets/hero.svg" alt="The Last Commit, a hackathon team" width="100%">
 
-**A team of developers. A shared vision. Endless possibilities.** 🚀
+<br>
 
-Welcome to **The Last Commit** — our collaborative space where ideas turn into code and teamwork turns into projects.
+We're a hackathon team. We pick one sharp problem, build a prototype that actually runs, and demo it hard. This account is where our shared work lives.
 
-This repository is our team's hub for collaborating, building, experimenting, and learning together.
+<br>
 
-## 💻 What We Do
+<img src="assets/result.svg" alt="Agrithon 2026, 3rd place, Prototype Demonstration" width="100%">
 
-- 🏆 **Hackathons:** Brainstorming, building, and competing together.
-- 🤝 **Team Projects:** Working on group projects and bringing ideas to life.
-- 🌍 **Open Source:** Contributing to open-source projects and the developer community.
-- 🧪 **Experimentation:** Exploring new technologies, tools, and creative ideas.
-- 📚 **Learning Together:** Sharing knowledge and growing as developers.
+<br>
 
-## 🛠️ How We Collaborate
+<img src="assets/pipeline.svg" alt="How we hack: idea, prototype, demo, ship" width="100%">
 
-- Share ideas and discuss project concepts.
-- Create branches for individual tasks and features.
-- Use pull requests to review and merge contributions.
-- Keep code organized and document important changes.
-- Help each other learn, debug, and build better solutions.
+<br>
 
-## 🌱 Our Philosophy
+<img src="assets/gitlog.svg" alt="Our git log" width="100%">
 
-- Build together, learn together.
-- Every contribution matters.
-- Experiment without fear of failure.
-- Share knowledge, not just code.
-- Turn ideas into reality.
+<br>
 
-## 🤝 Be Part of the Journey
+## What you'll find here
 
-Whether it's a hackathon, a crazy weekend project, or an experiment with a new technology, we're here to build something awesome together.
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### Hackathon builds
+Prototypes made against the clock. Rough edges included, working demos guaranteed.
 
-<div align="center">
+</td>
+<td width="50%" valign="top">
 
-### 💚 One Team. One Repository. Countless Possibilities.
+### Everything in the open
+Source, notes and what we learned along the way. Browse the [repositories](https://github.com/thelastcommit-team?tab=repositories).
 
-**Keep Building. Keep Collaborating. Keep Committing.** 🚀
+</td>
+</tr>
+</table>
 
-</div>
+## Say hello
+
+Want to team up, ask about something we built, or tell us it broke? [Open an issue](https://github.com/thelastcommit-team/thelastcommit-team/issues/new?title=Hello) and we'll find it.
+
+<br>
+
+<img src="assets/footer.svg" alt="Merge conflicts welcome. Dull demos are not." width="100%">
